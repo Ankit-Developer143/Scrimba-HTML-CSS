@@ -1,0 +1,23 @@
+
+/* transition used when hover are used */
+.heading{
+    color: blue;
+    /*  transition: all 0.2s !important;  */
+   /*  transition-property:  font-size; 
+    transition-delay: 1s;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-out; 
+    transition: font-size 0.5s ease 1s !important;*/
+    transition: all 0.5s ease;
+    transition-timing-function: ease-in;
+    
+    
+}
+
+.heading:hover{
+    font-size: 40px;
+    color: red;
+    letter-spacing: 10px;
+    
+
+}
