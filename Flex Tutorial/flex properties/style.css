@@ -1,0 +1,39 @@
+.container {
+    
+    border:5px solid  blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+
+/* Center */
+
+/* .container {
+    
+    border:5px solid  blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+} */
+
+
+
+/* if we use this then its get double in size */
+/* .home {
+    flex: 2;
+}
+.logout {
+    flex: 2;
+} */
+
+
+
+
+
+
+
+
+
+

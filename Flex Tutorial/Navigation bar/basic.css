@@ -1,0 +1,16 @@
+.container > :nth-child(1){
+    background-color: black;
+    color: white;
+
+}
+
+.container > :nth-child(2){
+    background-color: red;
+    color: white;
+    
+}
+
+.container > :nth-child(3){
+    background-color: rgba(20, 55, 59, 0.356);
+    color: red;
+}

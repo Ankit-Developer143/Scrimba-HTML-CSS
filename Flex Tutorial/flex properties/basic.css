@@ -1,0 +1,29 @@
+.container > div{
+    padding: 10px;
+  text-align: center;
+  font-size: 2em;
+  color: #ffeead;
+}
+html, body {
+    box-sizing: border-box;
+    height: 100%;
+    padding: 10px;
+    background-color: #ffeead;
+  }
+
+
+.container > :nth-child(1){
+    background-color: black;
+    color: white;
+
+}
+.container > :nth-child(2){
+    background-color:rgba(255, 192, 203, 0.849);
+    color: blue;
+
+}
+.container > :nth-child(3){
+    background-color: red;
+    color: white;
+
+}

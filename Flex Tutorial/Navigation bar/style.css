@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    border: solid;
+    font-size: 40px;
+    justify-content: flex-end;
+    
+    
+    
+}
+
+.search{
+    flex: 1;
+}
+
+
+
